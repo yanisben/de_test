@@ -82,7 +82,7 @@ This project has been organized as follows :
 
 - configs.py : contains datasets' respective absolute paths
 
-### Ad-Hoc Query
+### Ad-Hoc Processing
 
 #### How to run :
 
