@@ -1,7 +1,5 @@
 from utils.configs import *
 
-# configs = Configs()
-
 
 # Outputs to a json file
 

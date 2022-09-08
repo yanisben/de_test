@@ -2,7 +2,6 @@ from utils.configs import *
 from functions.normalization import *
 import pandas as pd
 
-# configs = Configs()
 
 # Read input datasets
 
