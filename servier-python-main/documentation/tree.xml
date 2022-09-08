@@ -1,0 +1,30 @@
+.
+├── README.md
+├── SQLQueries.sql
+├── documentation
+│   ├── Architecture.jpg
+│   └── layout.png
+└── src
+    ├── functions
+    │   ├── __pycache__
+    │   ├── adhocquery.py
+    │   ├── df_to_json.py
+    │   ├── ingestion.py
+    │   ├── merging.py
+    │   ├── normalization.py
+    │   └── search_drugs.py
+    ├── main
+    │   ├── AdhocProcessing.py
+    │   ├── DataPipeline.py
+    │   └── resources
+    ├── test
+    │   ├── AdhocProcessingTest.py
+    │   ├── DataPipelineTest.py
+    │   ├── __pycache__
+    │   └── resources
+    └── utils
+        ├── __pycache__
+        └── configs.py
+
+
+15 directories, 41 files
