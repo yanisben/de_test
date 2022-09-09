@@ -146,7 +146,7 @@ Making the code capable of raising errors, for instance when the raw file format
 
 #### Spark instead of Pandas
 
-Computations distributed across clusters can help us process larger "big data" datasets
+Computations distributed across clusters can help us process larger datasets
 
 ## 2. SQL
 
